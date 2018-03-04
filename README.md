@@ -3,7 +3,7 @@ This is simple Android Application project for Sylhet Engineering College (SEC) 
 
 <b>Language used in this project :</b></b> 
 Backend : Laravel (Object oriented PHP MVC framework)</br>
-Frontend : HTML5, CSS3, BootStrap, Javascript</br> </br>
+Frontend : HTML5, CSS3, BootStrap, Javascript</br> 
 
 <b>Mobile Application :</b> 
 Java </br>
