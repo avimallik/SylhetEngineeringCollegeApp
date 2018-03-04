@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_menu_library"
+        android:title="Library">
+        <menu>
+            <item
+                android:id="@+id/nav_library_info"
+                android:title="Library Info"
+
+                />
+
+            <item
+                android:id="@+id/nav_book_list"
+                android:title="Book List" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_menu_inventory"
+        android:title="Inventory">
+        <menu>
+            <item
+                android:id="@+id/nav_instrument"
+                android:title="Instruments"
+
+                />
+
+            <item
+                android:id="@+id/nav_furniture"
+                android:title="Furniture" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_menu_Booking"
+        android:title="Booking">
+        <menu>
+            <item
+                android:id="@+id/nav_booking_bus"
+                android:title="Bus Booking"
+
+                />
+
+            <item
+                android:id="@+id/nav_booking_room"
+                android:title="Room Booking" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_menu_building"
+        android:title="Buildings">
+        <menu>
+            <item
+                android:id="@+id/nav_building_cse"
+                android:title="CSE Building"
+
+                />
+
+            <item
+                android:id="@+id/nav_building_eee"
+                android:title="EEE Building" />
+
+            <item
+                android:id="@+id/nav_building_ce"
+                android:title="CE Building"
+
+                />
+
+            <item
+                android:id="@+id/nav_building_libary"
+                android:title="Library Building" />
+
+            <item
+                android:id="@+id/nav_building_administration"
+                android:title="Administration Building" />
+
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/login"
+            android:title="Login" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/register"
+            android:title="Register" />
+
+    </group>
+
+
+
+</menu>
