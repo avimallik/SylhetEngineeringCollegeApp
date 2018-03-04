@@ -8,7 +8,7 @@ Frontend : HTML5, CSS3, BootStrap, Javascript</br>
 <b>Mobile Application :</b> 
 Java </br>
 
-Screenshot </br></br>
+<b>Screenshot</b> </br></br>
 
 
 
