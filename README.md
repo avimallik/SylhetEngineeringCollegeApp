@@ -2,10 +2,10 @@
 This is simple Android Application project for Sylhet Engineering College (SEC) . An Android webView show the website of Sylhet Engineering College.
 
 <b>Author :</b><br> 
-Arunav Mallik Avi(Arm Avi), 
+Arunav Mallik Avi(Arm Avi), <br>
 Department of Computer Science & Engineering, National University, Bagladesh.
-<b>Language used in this project :</b></b> 
 
+<b>Language used in this project :</b></b> 
 Backend : Laravel (Object oriented PHP MVC framework)</br>
 Frontend : HTML5, CSS3, BootStrap, Javascript</br> 
 
